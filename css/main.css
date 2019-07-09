@@ -1,0 +1,4 @@
+/*img{width:100%;}*//*dont do that cuz this will make your website look like crap*/
+
+/*make sure the image do not pass its natural dimensions*/
+img, embed, object,video{max-width:100%;}
